@@ -140,12 +140,6 @@ An accessibility-focused web platform built to make digital services more inclus
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshi-adhikari&theme=github_dark" />
-</p>
-
-<br>
-
-<p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
