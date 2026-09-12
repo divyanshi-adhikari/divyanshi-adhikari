@@ -146,7 +146,7 @@ An accessibility-focused web platform built to make digital services more inclus
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshi-adhikari&theme=github-compact&hide_border=true&area=true" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 <br>
