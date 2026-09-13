@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 **CSE (Core) @ VIT Bhopal University** · Class of **2029** · **CGPA: 9.67**
+🎓 **CSE (Core) @ VIT Bhopal University** · Class of **2029** · **CGPA: 9.44**
 
 💡 Passionate about **software development and problem solving**, with a focus on building practical solutions.
 
