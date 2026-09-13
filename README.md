@@ -20,7 +20,6 @@
 
 💡 Passionate about **software development and problem solving**, with a focus on building practical solutions.
 
----
 
 **📚 Learning & Leveling Up**
 Building strong programming fundamentals with **C++ & Data Structures and Algorithms**.
